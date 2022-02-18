@@ -36,7 +36,7 @@ We can detect the following damages by the parts below.
 -December 2021 in Volume 25, No. 4 Journal of IKEEE(Institute of Korean Electrical and Electronics Engineers)
 <br>
 -Hankuk University of Foreign Studies' Information Industry Engineering Research Institute. The 38th Collection of Information Industry Engineering Papers, August 2021.
-
+<br>
 <a href="https://github.com/leehyoseop/2020EmbeddedContest_SmartCloset_Keras">:link:2020EmbeddedContest_SmartCloset</a>
 <br>
 :white_small_square:It automatically checks the condition of clothes in your closet (the presence or absence of clothes in your closet) and provides personal style customized styling services based on clothes in your current closet.
