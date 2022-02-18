@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75.svg?&style=for-the-badge&logo=ApacheTomcat&logoColor=white)
 
+<h1>PROJECT</h1>
+<hr>
 <a href="https://github.com/leehyoseop/CarDamageDetection_YOLOv4">:link:CarDamageDetection_YOLOv4</a>
 <br>
-:point_right:Implementing algorithm which can detect car damage parts using YOLO_v4.
+:white_small_square:Implementing algorithm which can detect car damage parts using YOLO_v4.
 We can detect the following damages by the parts below.
 <br>
 -December 2021 in Volume 25, No. 4 Journal of IKEEE(Institute of Korean Electrical and Electronics Engineers)
@@ -37,8 +39,8 @@ We can detect the following damages by the parts below.
 
 <a href="https://github.com/leehyoseop/2020EmbeddedContest_SmartCloset_Keras">:link:2020EmbeddedContest_SmartCloset</a>
 <br>
-:point_right:It automatically checks the condition of clothes in your closet (the presence or absence of clothes in your closet) and provides personal style customized styling services based on clothes in your current closet.
+:white_small_square:It automatically checks the condition of clothes in your closet (the presence or absence of clothes in your closet) and provides personal style customized styling services based on clothes in your current closet.
 
 <a href="https://github.com/Xproject-Team5/ONOON_SmartDoorlock_Django">:link:Xproject-Team5/ONOON_SmartDoorlock_Django</a>
 <br>
-:point_right:Smart door lock that recognizes your face with your smartphone
+:white_small_square:Smart door lock that recognizes your face with your smartphone
