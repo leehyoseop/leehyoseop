@@ -36,6 +36,11 @@ We can detect the following damages by the parts below.<br>
 <a href="https://github.com/leehyoseop/2020EmbeddedContest_SmartCloset_Keras">:link:2020EmbeddedContest_SmartCloset</a><br>
 :white_small_square:It automatically checks the condition of clothes in your closet (the presence or absence of clothes in your closet) and provides personal style customized styling services based on clothes in your current closet.<br>
 <h1></h1>
+<a href="https://github.com/leehyoseop/Spring_project_DataSolution">:link:Spring_project_DataSolution</a>
+<br>
+:white_small_square:
+<h1></h1>
 <a href="https://github.com/Xproject-Team5/ONOON_SmartDoorlock_Django">:link:Xproject-Team5/ONOON_SmartDoorlock_Django</a>
 <br>
 :white_small_square:Smart door lock that recognizes your face with your smartphone
+https://github.com/leehyoseop/Spring_project_DataSolution
