@@ -44,4 +44,3 @@ We can detect the following damages by the parts below.<br>
 <a href="https://github.com/Xproject-Team5/ONOON_SmartDoorlock_Django">:link:Xproject-Team5/ONOON_SmartDoorlock_Django</a>
 <br>
 :white_small_square:Smart door lock that recognizes your face with your smartphone
-https://github.com/leehyoseop/Spring_project_DataSolution
