@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/leehyoseop/CarDamageDetection_YOLOv4">:link:CarDamageDetection_YOLOv4</a><br>
 :white_small_square:Implementing algorithm which can detect car damage parts using YOLO_v4.
 We can detect the following damages by the parts below.<br>
+damages: scratch, collision / car parts: front_door, back_door, hood, bumper, rear, fender<br>
 -December 2021 in Volume 25, No. 4 Journal of IKEEE(Institute of Korean Electrical and Electronics Engineers)<br>
 -Hankuk University of Foreign Studies' Information Industry Engineering Research Institute. The 38th Collection of Information Industry Engineering Papers, August 2021.<br>
 <h1></h1>
