@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyoseop&show_icons=true&theme=apprentice)-->
-<!--<a href="https://www.instagram.com/hsobzo/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<!--
+<a href="https://www.instagram.com/hsobzo/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br>
 <br>
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
@@ -23,7 +24,8 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75.svg?&style=for-the-badge&logo=ApacheTomcat&logoColor=white)-->
+![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75.svg?&style=for-the-badge&logo=ApacheTomcat&logoColor=white)
+-->
 
 <h1>PROJECT</h1>
 <hr>
