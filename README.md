@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/leehyoseop/CarDamageDetection_YOLOv4">:link:CarDamageDetection_YOLOv4</a><br>
 <!--
 :white_small_square:Implementing algorithm which can detect car damage parts using YOLO_v4.
--->
 <br>
 -December 2021 in Volume 25, No. 4 Journal of IKEEE<br>
 -Hankuk University of Foreign Studies' Information Industry Engineering Research Institute.
+-->
 <h1></h1>
 <a href="https://github.com/leehyoseop/2020EmbeddedContest_SmartCloset_Keras">:link:2020EmbeddedContest_SmartCloset</a><br>
 <!--
 :white_small_square:Checks the condition of clothes in closet and provides personal style customized styling services.<br>
--->
 -2020EmbeddedContest Finalist
+-->
 <!--
 <h1></h1>
 <a href="https://github.com/leehyoseop/Spring_project_DataSolution">:link:Spring_project_DataSolution</a>
