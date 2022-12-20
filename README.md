@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyoseop&show_icons=true&theme=apprentice)-->
-
-<a href="https://www.instagram.com/hsobzo/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <!--
 <br>
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
