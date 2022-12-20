@@ -47,9 +47,3 @@ Here are some ideas to get you started:
 <br>
 :white_small_square:Datasolution mini web project.
 -->
-<h1></h1>
-<a href="https://github.com/Xproject-Team5/ONOON_SmartDoorlock_Django">:link:Xproject-Team5/ONOON_SmartDoorlock_Django</a>
-<br>
-<!--
-:white_small_square:Smart door lock that recognizes face with smartphone.
--->
